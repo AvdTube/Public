@@ -1,0 +1,6 @@
+{
+    "appName": "TEST",
+    "appPackage": "http://www.bejson.com",
+    "appLogo": "88",
+    "appDescription": "true"
+}
