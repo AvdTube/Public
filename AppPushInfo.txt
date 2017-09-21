@@ -1,6 +1,6 @@
 {
-    "appName": "TEST1",
-    "appPackage": "com.test1.com",
+    "appName": "TEST2",
+    "appPackage": "com.test2.com",
     "appLogo": "https://raw.githubusercontent.com/null2017/null/master/AppLogo/bb.png",
-    "appDescription": "test1 app"
+    "appDescription": "test2 app"
 }
