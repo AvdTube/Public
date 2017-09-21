@@ -1,6 +1,6 @@
 {
     "appName": "TEST",
     "appPackage": "com.test.com",
-    "appLogo": "https://raw.githubusercontent.com/null2017/null/master/AppLogo/test.png",
+    "appLogo": "https://raw.githubusercontent.com/null2017/null/master/AppLogo/test.png",
     "appDescription": "test app"
 }
