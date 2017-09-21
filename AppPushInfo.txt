@@ -2,5 +2,5 @@
     "appName": "TEST",
     "appPackage": "com.test.com",
     "appLogo": "test.png",
-    "appDescription": 这是一个app"
+    "appDescription": "这是一个app"
 }
