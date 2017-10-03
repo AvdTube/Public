@@ -1,6 +1,6 @@
 {
-    "appName": "Stream: 免费YouTube音乐",
-    "appPackage": "com.djit.apps.stream",
-    "appLogo": "https://raw.githubusercontent.com/null2017/null/master/AppLogo/cc.png",
-    "appDescription": "为您的Android手机装一个免费音乐播放器。"
+    "appName": "Free King James Bible (KJV)",
+    "appPackage": "com.biblepro.kingfreekjv",
+    "appLogo": "https://raw.githubusercontent.com/null2017/null/master/AppLogo/bible.png",
+    "appDescription": "Download King James Bible (KJV) for FREE and carry your own pocket soft copy of The Holy Bible. Try it Now!。"
 }
