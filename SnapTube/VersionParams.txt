@@ -2,5 +2,5 @@
     "versionCode": "1",
     "versionName": "1.0",
     "updateMsg": "",
-    "versionApkUrl": "true"
+    "versionApkUrl": "https://raw.githubusercontent.com/null2017/null/master/SnapTube/Apk/apk"
 }
