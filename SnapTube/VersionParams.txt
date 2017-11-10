@@ -3,6 +3,5 @@
     "versionName": "1.0",
     "updateMsg": "1.修复BUG\n2.优化界面\n3.向天空大声的呼喊说声妈卖批\n4.欢迎大家Star和提issue\n",
     "versionApkUrl": "true",
-    "forceUpdate": "1",
     "updateTitle": "New Version Detected"
 }
